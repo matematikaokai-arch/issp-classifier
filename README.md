@@ -1,6 +1,6 @@
 # ISSP/PEQS Classifier
 
-Live demo: [https://твой-ник.github.io/issp-classifier/](https://твой-ник.github.io/issp-classifier/)
+Live demo: [https://murdasov-research.github.io/issp-classifier/](https://murdasov-research.github.io/issp-classifier/)
 
 K = σ² / R_eff — gravitational density parameter.  
 ISSP classes: I (Self-sufficient), II (Balanced), III (DM-dependent).
