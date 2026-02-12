@@ -8,7 +8,7 @@ Three galactic states:
 - **Class III (DM-dependent):** K ≤ 1,000 (e.g., Dragonfly 44)
 
 ## Live Tool
-👉 **[Launch the ISSP Quick Check](https://murdasov-research.carrd.co/)**  
+👉 **[Launch the ISSP Quick Check](https://issp-tool.matematikaokai.workers.dev/)**  
 Enter σ and R_eff — get ISSP class instantly. No installation.
 
 ## Data & Methodology
